@@ -4,7 +4,7 @@ import CardProps from "./Card.type";
 const Cards = ({title, body, footer, buttonLabel, buttonAction}:CardProps) => {
   return(
       <div>
-        <p>Card2</p>
+        <p>Card</p>
         <p className="card-title">{title}</p>
         <p className="card-body">{body}</p>
           {
