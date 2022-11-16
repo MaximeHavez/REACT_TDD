@@ -1,0 +1,21 @@
+body {
+    display: flex;
+}
+.card-title {
+    text-align: center;
+}
+.card-body {
+    text-align: center;
+ }
+.card-button {
+    justify-content: center;
+}
+.card-footer {
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    background-color: bisque;
+    border-radius: 5px;
+}
