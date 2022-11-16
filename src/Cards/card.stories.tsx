@@ -35,5 +35,6 @@ avecButton.args = {
     title: 'Titre',
     body: 'Lorem ipsum doloret sit amet consectatur...',
     footer: 'Ceci est un footer',
-    buttonLabel: 'Oh oui clique moi'
+    buttonLabel: 'Oh oui clique moi',
+
 }
